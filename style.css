@@ -1,0 +1,40 @@
+:root {
+    --velvet-void: #120e18;
+    --nebula-plum: #3b2a3f;
+    --smoky-amethyst: #7a6d7f;
+    --solar-flare: #e07a2e;
+    --ember-glow: #f4a883;
+    --stardust-mist: #f6ecdd;
+}
+
+body {
+    background-color: var(--velvet-void);
+    color: var(--stardust-mist);
+    font-family: "Lora", serif;
+    font-weight: 400;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1, h2, h3, h4 {
+    color: var(--ember-glow);
+    font-family: "Limelight", sans-serif;
+    font-weight: 400;
+}
+
+strong {
+    font-weight: 600;
+}
+
+ul strong {
+    color: var(--solar-flare);
+}
+
+hr {
+    border: none;
+    border-top: 1px solid var(--smoky-amethyst);
+    margin: 40px 0;
+}
