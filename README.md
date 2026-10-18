@@ -1,6 +1,6 @@
 # Fumaça e Feitiço
 
-*Smoke and Sorcery*: a tabletop RPG of urban fantasy, presented as a small website.
+a tabletop RPG of urban fantasy, presented as a small website.
 
 **Live site:** https://gabrielalgumacoisa.github.io/RPG-F-F/
 
