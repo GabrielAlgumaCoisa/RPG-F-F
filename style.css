@@ -41,3 +41,14 @@ hr {
     border-top: 1px solid var(--smoky-amethyst);
     margin: 40px 0;
 }
+
+.note {
+    text-align: end;
+    font-style: italic;
+    font-size: 1.0rem;
+    margin-left: 350px;
+    color: var();
+    strong {
+        color: var(--solar-flare);
+    }
+}
