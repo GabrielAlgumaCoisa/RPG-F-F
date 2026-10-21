@@ -26,7 +26,7 @@ h1, h2, h3, h4 {
 }
 
 h1 {text-align: center;}
-h3 {font-size: 2.0rem;}
+h3 {font-size: 1.75rem;}
 
 strong {
     font-weight: 600;
@@ -51,4 +51,13 @@ hr {
     strong {
         color: var(--solar-flare);
     }
+}
+
+blockquote {
+    text-align: end;
+    font-size: 1.25rem;
+}
+
+blockquote p {
+    font-style: italic;
 }
