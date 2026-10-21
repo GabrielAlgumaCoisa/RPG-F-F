@@ -25,5 +25,5 @@ This is also a learning project: a hands-on way to practice building web pages f
 
 ## Notes
 
-All text, rules and ideas in this project are original work by the author. Please don't reuse them without permission.
+All text, rules and ideas in this project are original work by the me. Please don't reuse them without permission.
 ;3
