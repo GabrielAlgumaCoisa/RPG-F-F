@@ -26,7 +26,6 @@ h1, h2, h3, h4 {
 }
 
 h1 {text-align: center;}
-h3 {font-size: 1.75rem;}
 
 strong {
     font-weight: 600;
@@ -45,7 +44,7 @@ hr {
 .note {
     text-align: end;
     font-style: italic;
-    font-size: 1.0rem;
+    font-size: 1.25rem;
     margin-left: 350px;
     color: var();
     strong {
@@ -61,3 +60,33 @@ blockquote {
 blockquote p {
     font-style: italic;
 }
+
+ol {
+    list-style-type: upper-roman;
+    ::marker {
+        color: var(--smoky-amethyst);
+    }
+}
+
+ul {
+    list-style-type: circle;
+    ::marker {
+    color: var(--smoky-amethyst);
+    }
+}
+
+dl {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    gap: 4px 16px;
+}
+
+dt {
+    font-weight: bold;
+}
+
+dd {
+    margin-left: 0;
+}
+
+
