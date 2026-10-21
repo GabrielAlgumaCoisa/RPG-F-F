@@ -1,8 +1,9 @@
 # Fumaça e Feitiço
 
-a tabletop RPG of urban fantasy, presented as a small website.
+a tabletop fantasy RPG, presented as a small website.
 
-**Live site:** https://gabrielalgumacoisa.github.io/RPG-F-F/
+# Live site:
+https://gabrielalgumacoisa.github.io/RPG-F-F/
 
 ## About the game
 
