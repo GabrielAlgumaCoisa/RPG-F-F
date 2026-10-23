@@ -90,3 +90,8 @@ dd {
 }
 
 
+#indlast {
+    color: var(--ember-glow);
+    text-align: end;
+    font-style: italic;
+}
