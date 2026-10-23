@@ -19,13 +19,14 @@ body {
     padding:20px;
 }
 
-h1, h2, h3, h4 {
+h1, h2, h3, h4, h5 {
     color: var(--ember-glow);
     font-family: "Limelight", sans-serif;
     font-weight: 400;
 }
 
 h1 {text-align: center;}
+
 
 strong {
     font-weight: 600;
@@ -50,6 +51,12 @@ hr {
     strong {
         color: var(--solar-flare);
     }
+}
+
+#indlast {
+    color: var(--ember-glow);
+    text-align: end;
+    font-style: italic;
 }
 
 blockquote {
@@ -89,9 +96,3 @@ dd {
     margin-left: 0;
 }
 
-
-#indlast {
-    color: var(--ember-glow);
-    text-align: end;
-    font-style: italic;
-}
